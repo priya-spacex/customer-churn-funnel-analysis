@@ -33,6 +33,13 @@ This portfolio project analyzes customer churn and conversion through a learning
 3. The Basic plan has a churn rate of 94.38%, compared with 78.54% for the Premium plan.
 4. Churn rates differ across payment methods, ranging from 88.17% for UPI to 91.53% for Debit Card.
 
+
+
+<img width="942" height="548" alt="Screenshot 2026-10-29 185901" src="https://github.com/user-attachments/assets/8005e8c4-9d37-4257-b016-565cff12fe9f" />
+
+
+
+
 ## Recommendations
 - Investigate barriers that prevent users from progressing beyond the beginning of a course.
 - Explore onboarding improvements and progress reminders.
